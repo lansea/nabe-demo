@@ -5,7 +5,7 @@ Categories: node, readme, blog
 
 **nabe** is a git-powered, minimalist blog engine for coders.
 
-A simple (but yet another) blog engine written in node. It basically takes the articles/ folder full of markdown post and serves them as a website. Posts are passed through [Markdown](http://daringfireball.net/projects/markdown/syntax), and snippets of code are passed through [Prettify](http://code.google.com/p/google-code-prettify/) syntax highlighting.
+Aaaaaa simple (but yet another) blog engine written in node. It basically takes the articles/ folder full of markdown post and serves them as a website. Posts are passed through [Markdown](http://daringfireball.net/projects/markdown/syntax), and snippets of code are passed through [Prettify](http://code.google.com/p/google-code-prettify/) syntax highlighting.
 
 A blog is simply Git repository that adhere to a specific format. Posts are passed through [Markdown](http://daringfireball.net/projects/markdown/syntax) and can be edited in a number of ways depending on your needs. If not run through a valid git repo to provide article revisions and history, it falls back to the file system.
 
